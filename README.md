@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Debbrath Debnath. Nice to see you.ðŸ‘‹</h2>
+<h2 align="center">Hi, I'm Debbrath Debnath. Nice to see you.👋</h2>
 <h4 align="center">Experienced Full Stack .NET Developer, passionate about building innovative and efficient solutions for digital transformation.</h4>
 <br />
 <div align="center">
@@ -46,19 +46,19 @@
 <p>System Analyst with 10+ years of experience in developing scalable and reliable software solutions using Full Stack .NET technologies. Skilled in leading project teams, collaborating with stakeholders, and delivering results that exceed customer expectations. Proficient in C#, ASP.NET, MVC, Web API, .Net Core, Angular, MSSQL Server, PostgreSQL, MongoDB, GitHub, etc. Committed to continuous learning and professional growth to stay up-to-date with the latest trends and technologies in the field.</p>
 <ul>
   <li>
-    ðŸŒÂ  I'm based in Dhaka, Bangladesh
+    🌍  I'm based in Dhaka, Bangladesh
   </li>
   <li>
-    ðŸŒ± Iâ€™m currently learning many things like Microservices, Clean architecture, and NGINX, I believe that every day is a learning opportunity. 
+    🌱 I’m currently learning many things like Microservices, Clean architecture, and NGINX, I believe that every day is a learning opportunity. 
   </li>
   <li>
-    ðŸ‘¯ Iâ€™m currently open for work and employment opportunities (remote and relocation)
+    👯 I’m currently open for work and employment opportunities (remote and relocation)
   </li>
   <li>
-    ðŸ¤Â  I'm open to collaborating on Projects
+    🤝  I'm open to collaborating on Projects
   </li>
   <li>
-    âœ‰ï¸  You can contact me at <a href="mailto:aronno1920@hotmail.com">aronno1920@hotmail.com</a>
+    ✉️  You can contact me at <a href="mailto:aronno1920@hotmail.com">aronno1920@hotmail.com</a>
   </li>
 </ul>
 
