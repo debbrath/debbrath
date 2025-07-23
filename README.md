@@ -39,7 +39,7 @@
   ![Joined GitHub in 2014](https://img.shields.io/badge/Joined-2014-blue)
   ![Public Repos](https://img.shields.io/badge/Public%20Repos-20-blue)
   ![Gists](https://img.shields.io/badge/Gists-4-lightgrey)
-  <img src="https://komarev.com/ghpvc/?username=Aronno1920&label=Profile%20views&color=brightgreen&style=flat" alt="Aronno1920" />
+  <img src="https://komarev.com/ghpvc/?username=Debbrath&label=Profile%20views&color=brightgreen&style=flat" alt="Aronno1920" />
 </div>
 
 <br />
@@ -58,7 +58,7 @@
     🤝  I'm open to collaborating on Projects
   </li>
   <li>
-    ✉️  You can contact me at <a href="mailto:aronno1920@hotmail.com">aronno1920@hotmail.com</a>
+    ✉️  You can contact me at <a href="mailto:debbrathdebnath@gmail.com">debbrathdebnath@gmail</a>
   </li>
 </ul>
 
