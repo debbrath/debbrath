@@ -77,9 +77,6 @@
   <a href="https://github.com/debbrath">
     <img width="435px" src="https://github-readme-stats.vercel.app/api?username=debbrath&show_icons=true&hide_border=true&hide_title=true&theme=dark" alt="GitHub Stats">
   </a>
-  <a href="https://github.com/debbrath">
-    <img width="390px" src="https://github-readme-streak-stats.herokuapp.com/?user=debbrath&hide_border=true&theme=dark" alt="debbrath" />
-  </a>
 </p>
 <h2>Where to find me</h2>
 
