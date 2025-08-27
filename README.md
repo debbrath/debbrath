@@ -56,7 +56,7 @@
 </div>
 
 <br />
-<p>System Analyst and ERP Lead with 12+ years of experience in designing, developing, and deploying enterprise solutions using Full Stack .NET technologies. Skilled in project management, team leadership, and stakeholder collaboration to deliver robust, scalable, and reliable software solutions. Proficient in .NET Core, C#, ASP.NET, MVC, Web API, Angular, SQL Server, PostgreSQL, MongoDB,GitHub,Render,Python, PyTorch, and Transformers etc.Deep expertise in ERP and SAP consulting. Committed to professional growth and currently advancing knowledge in AI engineering to integrate emerging technologies into ERP and enterprise platforms.</p>
+<p>System Analyst and ERP Lead with 12+ years of experience in designing, developing, and deploying enterprise solutions using Full Stack .NET technologies. Skilled in project management, team leadership, and stakeholder collaboration to deliver robust, scalable, and reliable software solutions. Proficient in .NET Core, C#, ASP.NET, MVC, Web API, Angular, SQL Server,PostgreSQL, MongoDB,GitHub,Render,Python, PyTorch, and Transformers etc.Deep expertise in ERP and SAP consulting. Committed to professional growth and currently advancing knowledge in AI engineering to integrate emerging technologies into ERP and enterprise platforms.</p>
 <ul>
   <li>
     🌍  I'm based in Dhaka, Bangladesh
